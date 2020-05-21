@@ -1,0 +1,4 @@
+#Fri Apr 03 21:06:09 WIB 2020
+base.0=/Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

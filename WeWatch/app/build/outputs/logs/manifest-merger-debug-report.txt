@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/a7d0a703822ad3cf52fb1cae5db1e4dc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/689939b33d9fcf3209ee7be520d2a3bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/973a4c23336b088f11555e57114a640a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/domikado/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b6c3f9429ce1a70f44f1d83d2d48bd05/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/19ced77a8b5461f6fcd58f26166bf6bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-rxjava2-2.1.0-alpha01.aar/fcbd14af4b6e8670b0bb2363365eb67e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/b01732a1016dbcdd16d329dafee1c075/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/78f682c58636a2317c5d236e73ffd976/AndroidManifest.xml:17:1-25:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/domikado/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.1.aar/9e65886a3900927228070a988f675084/AndroidManifest.xml:15:1-20:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/domikado/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50163215294280e94be79bbe80d5fc08/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/dfd4818ce1e257c79f81da08f747ff6c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/e672b06ef29439503d4030bd0602b5ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/19bb2def17d18fc9a1552e6edc087d05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/21b128d977a5bf81987b797c7665feb6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/93fde9402a31307d7b6d7c032f0dba66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/8b5fcdb2b530cea539db6f666b21b98d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c7e025c4007085e9dd6eb3166c1cb531/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c05588aac69ffd0ea64a3ebe582f77e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/a5c6d76882d597ed61bf7aaa93ae13fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/0bfc8a6c0f0bfde4265d3a65cf566254/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b32af80646b6cb56baac956a944ef810/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d962e442ee2c736cb7ea93c4fe8e1b01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/096a28dc84801a2dccfbb47fd8756d89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/4492a91e5c7327fb0b31a29b75597bb9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/280ca1626e5b05a2e3271e788a15df41/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/33fec10db431e72097db007235260fe3/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/9dbad29f57d9ab721d896f8ace3a26e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/bd0bedd9c5a3f3bf7d0abb57b1c7b8c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/8faba71352a0e765a8372077ba8c929b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/fb06bbc8d3af5a25d20833ef2a6e5162/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/e91518f7aaff28cd800e7e31509ab8bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.1-alpha01.aar/4f25a3de1178d9b43370b6ce5251d7c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/21f03efb7bcb94b21b5fcafd586ad2d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/f8e8dd5f179cc08a3b656fcdc9aacebd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/18a0fb14c5aff005139c4c49c1a577d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/a1b087556ef019858b482de968a3e2ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/db46da895cbdc645830e292811d29d5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/4810413676ca4a61c5adc61d51ba0932/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/1ed1ffae8d1ae779f3db5ad76ac757e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/595808d887afd3024af32c0b430c6ffc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:11-46
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:7:5-34:19
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/a7d0a703822ad3cf52fb1cae5db1e4dc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/a7d0a703822ad3cf52fb1cae5db1e4dc/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/domikado/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b6c3f9429ce1a70f44f1d83d2d48bd05/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/domikado/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b6c3f9429ce1a70f44f1d83d2d48bd05/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/b01732a1016dbcdd16d329dafee1c075/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/b01732a1016dbcdd16d329dafee1c075/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/78f682c58636a2317c5d236e73ffd976/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/78f682c58636a2317c5d236e73ffd976/AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/domikado/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50163215294280e94be79bbe80d5fc08/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/domikado/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50163215294280e94be79bbe80d5fc08/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/280ca1626e5b05a2e3271e788a15df41/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/280ca1626e5b05a2e3271e788a15df41/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/33fec10db431e72097db007235260fe3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/33fec10db431e72097db007235260fe3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/280ca1626e5b05a2e3271e788a15df41/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:13:9-44
+activity#com.raywenderlich.wewatch.MainActivity
+ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:17:19-42
+	android:theme
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:18:19-50
+	android:name
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.raywenderlich.wewatch.AddMovieActivity
+ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:26:9-28:20
+	android:label
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:27:19-44
+	android:name
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:26:19-51
+activity#com.raywenderlich.wewatch.SearchActivity
+ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:30:9-32:20
+	android:label
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:31:19-49
+	android:name
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml:30:19-49
+uses-sdk
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/a7d0a703822ad3cf52fb1cae5db1e4dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/a7d0a703822ad3cf52fb1cae5db1e4dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/689939b33d9fcf3209ee7be520d2a3bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/689939b33d9fcf3209ee7be520d2a3bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/973a4c23336b088f11555e57114a640a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/973a4c23336b088f11555e57114a640a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/domikado/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b6c3f9429ce1a70f44f1d83d2d48bd05/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/domikado/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/b6c3f9429ce1a70f44f1d83d2d48bd05/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/19ced77a8b5461f6fcd58f26166bf6bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/19ced77a8b5461f6fcd58f26166bf6bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-rxjava2-2.1.0-alpha01.aar/fcbd14af4b6e8670b0bb2363365eb67e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-rxjava2-2.1.0-alpha01.aar/fcbd14af4b6e8670b0bb2363365eb67e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/b01732a1016dbcdd16d329dafee1c075/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/b01732a1016dbcdd16d329dafee1c075/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/78f682c58636a2317c5d236e73ffd976/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/78f682c58636a2317c5d236e73ffd976/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/domikado/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.1.aar/9e65886a3900927228070a988f675084/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/domikado/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.1.aar/9e65886a3900927228070a988f675084/AndroidManifest.xml:18:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/domikado/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50163215294280e94be79bbe80d5fc08/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/domikado/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50163215294280e94be79bbe80d5fc08/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/dfd4818ce1e257c79f81da08f747ff6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/dfd4818ce1e257c79f81da08f747ff6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/e672b06ef29439503d4030bd0602b5ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/e672b06ef29439503d4030bd0602b5ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/19bb2def17d18fc9a1552e6edc087d05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/19bb2def17d18fc9a1552e6edc087d05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/21b128d977a5bf81987b797c7665feb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/21b128d977a5bf81987b797c7665feb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/93fde9402a31307d7b6d7c032f0dba66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/93fde9402a31307d7b6d7c032f0dba66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/8b5fcdb2b530cea539db6f666b21b98d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/8b5fcdb2b530cea539db6f666b21b98d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c7e025c4007085e9dd6eb3166c1cb531/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c7e025c4007085e9dd6eb3166c1cb531/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c05588aac69ffd0ea64a3ebe582f77e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c05588aac69ffd0ea64a3ebe582f77e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/a5c6d76882d597ed61bf7aaa93ae13fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/a5c6d76882d597ed61bf7aaa93ae13fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/0bfc8a6c0f0bfde4265d3a65cf566254/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/0bfc8a6c0f0bfde4265d3a65cf566254/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b32af80646b6cb56baac956a944ef810/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b32af80646b6cb56baac956a944ef810/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d962e442ee2c736cb7ea93c4fe8e1b01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d962e442ee2c736cb7ea93c4fe8e1b01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/096a28dc84801a2dccfbb47fd8756d89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/096a28dc84801a2dccfbb47fd8756d89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/4492a91e5c7327fb0b31a29b75597bb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/4492a91e5c7327fb0b31a29b75597bb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/280ca1626e5b05a2e3271e788a15df41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/280ca1626e5b05a2e3271e788a15df41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/33fec10db431e72097db007235260fe3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/33fec10db431e72097db007235260fe3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/9dbad29f57d9ab721d896f8ace3a26e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/9dbad29f57d9ab721d896f8ace3a26e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/bd0bedd9c5a3f3bf7d0abb57b1c7b8c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/bd0bedd9c5a3f3bf7d0abb57b1c7b8c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/8faba71352a0e765a8372077ba8c929b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/8faba71352a0e765a8372077ba8c929b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/fb06bbc8d3af5a25d20833ef2a6e5162/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/fb06bbc8d3af5a25d20833ef2a6e5162/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/e91518f7aaff28cd800e7e31509ab8bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/e91518f7aaff28cd800e7e31509ab8bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.1-alpha01.aar/4f25a3de1178d9b43370b6ce5251d7c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.1-alpha01.aar/4f25a3de1178d9b43370b6ce5251d7c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/21f03efb7bcb94b21b5fcafd586ad2d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/21f03efb7bcb94b21b5fcafd586ad2d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/f8e8dd5f179cc08a3b656fcdc9aacebd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/f8e8dd5f179cc08a3b656fcdc9aacebd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/18a0fb14c5aff005139c4c49c1a577d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/18a0fb14c5aff005139c4c49c1a577d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/a1b087556ef019858b482de968a3e2ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/a1b087556ef019858b482de968a3e2ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/db46da895cbdc645830e292811d29d5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/db46da895cbdc645830e292811d29d5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/4810413676ca4a61c5adc61d51ba0932/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/4810413676ca4a61c5adc61d51ba0932/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/1ed1ffae8d1ae779f3db5ad76ac757e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/1ed1ffae8d1ae779f3db5ad76ac757e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/595808d887afd3024af32c0b430c6ffc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/595808d887afd3024af32c0b430c6ffc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+		ADDED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/domikado/Documents/Android Excercise Projects/Android Advance/WeWatch/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/b01732a1016dbcdd16d329dafee1c075/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/b01732a1016dbcdd16d329dafee1c075/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/domikado/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/b01732a1016dbcdd16d329dafee1c075/AndroidManifest.xml:24:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/domikado/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50163215294280e94be79bbe80d5fc08/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/domikado/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50163215294280e94be79bbe80d5fc08/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/domikado/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50163215294280e94be79bbe80d5fc08/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/domikado/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50163215294280e94be79bbe80d5fc08/AndroidManifest.xml:9:13-64
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/domikado/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/574067f3ada88f74451d2b3ffbd8808a/AndroidManifest.xml:24:13-79
